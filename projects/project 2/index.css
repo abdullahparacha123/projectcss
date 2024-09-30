@@ -1,0 +1,19 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+h1{
+    color: #0088dd;
+    padding: inherit;
+    text-shadow: 2px 2px 3px;
+}
+.zero{
+    color:lightblue ;
+}
+.open{
+    color: lightblue;
+}
+.close{
+    text-align: right;
+    text-decoration: underline;
+}
