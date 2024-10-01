@@ -1,0 +1,160 @@
+.one{
+    background-color: #bbbbaa;
+    height: 300px;
+    width: 300px;
+}
+.wow{
+    height: 75%;
+    width: 75%;
+    background-color: #0088dd;
+}
+.two{
+    min-width: 250px;
+    max-width: 390px;
+    text-align: center;
+    padding: 5px;
+}
+.three{
+    min-width: 250px;
+    max-width: 390px;
+    text-align: right;
+    padding: 5px;
+
+}
+.four{
+    min-width: 250px;
+    max-width: 390px;
+    text-align: right;
+    padding: 5px;
+
+}
+.five{
+    width: 400px;
+    font-size: 90%;
+    line-height: 1.2em;
+    font-style: italic;
+    text-transform: uppercase;
+    min-height: 10px;
+    max-height: 30px;
+}
+.six{
+    color: #0088dd;
+    border-bottom: 1px solid #0088dd;
+}
+.seven{
+    overflow: hidden;
+}
+.eight{
+    overflow: scroll;
+}
+.nine{
+    border: solid black;
+    border-width: 2px;
+}
+.ten{
+    border:  solid black;
+    border-width: thick;
+}
+.eleven{
+    border: solid black;
+    border-width: 30px, 6px,12px,4px;
+}
+.twelve{
+    border-style: solid;
+}
+.thirteen{
+    border-style: dotted;
+}
+.fourteen{
+    border-style: dashed;
+}
+.fiveteen{
+    border-style: double;
+}
+.sixteen{
+    border-style: groove;
+}
+.seventeen{
+    border-style: ridge;
+}
+.eighteen{
+    border-style: inset;
+}
+.nineteen{
+    border-style: outset;
+}
+.twenty{
+    border: 2px solid;
+    border-color: #0088dd;
+}
+.twentyone{
+    border: 2px solid;
+    border-color: #bbbbaa #111111 #ee3e80 #0088dd;
+}
+.twentytwo{
+    border: 3px dotted #0088dd;
+    width: 300px;
+}
+.twentythree{
+    border: 2px solid #0088dd;
+    width: 300px;
+}
+.twentyfour{
+    border: 2px solid #0088dd;
+    padding: 10px;
+    width: 300px;
+}
+.twentyfive{
+    border: 2px solid #0088dd;
+    padding: 10px;
+    width: 300px;
+}
+.twentysix{
+    border: 2px solid #0088dd;
+    padding: 10px;
+    width: 300px;
+    margin: 20px;
+}
+.twentyseven{
+    text-align: center;
+    border: 2px solid #0088dd;
+    width: 300px;
+    padding: 50px;
+    border-width: thick;
+}
+.twentyeight{
+    border: 2px solid #0088dd;
+    width: 300px;
+    padding: 50px;
+    border-width: thick;
+    text-align: right;
+    margin: 10px auto 10px auto;
+
+}
+.twentynine{
+    display: inline;
+    margin-right: 10px;
+}
+.thirty{
+    /* display: none; */
+    visibility: hidden;
+    display: inline;
+}
+.thirtyone{
+    border: 2px solid;
+    height: 200px;
+    width: 200px;
+    /* -moz-box-shadow: -5px -5px #777777;
+-webkit-box-shadow: -5px -5px #777777; */
+box-shadow: inset 0 0 10px #777777;
+} 
+.thirtytwo{
+    border: 2px solid deeppink;
+    width: 300px;
+    height: 110px;
+    padding: 30px;
+    border-width: thick;
+    /* border-radius: 500px; */
+    border-top-left-radius:50px ;
+}
+
