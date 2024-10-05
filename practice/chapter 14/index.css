@@ -1,0 +1,137 @@
+.one{
+    list-style-type: lower-roman;
+}
+.two{
+    list-style-image: url(../../../pictures/images\ \(1\).jpg) ;
+    margin: 8px;
+    width: 150px;
+}
+.three{
+    margin: 10px 0px 0px 0px;
+    width: 250px;
+    list-style: outside;
+}
+.wow{
+    width: 250px;
+    border: 2px solid black;
+    height: 100px;
+    margin: 50px;
+}
+.good{
+    width: 250px;
+    border: 2px solid black;
+    height: 100px;
+    margin: 50px;
+}
+.four{
+    list-style-position: inside;
+}
+.five{
+    list-style-position: outside;
+}
+.six{
+    list-style:inside;
+    width: 300px;
+}
+.seven{
+    margin: 10px 0px 0px 0px;
+}
+.like{
+    text-align: center
+    ;
+}
+.table{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #111111;
+    width: 600px;
+    margin-left:372px;
+}
+.eight{
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 90%;
+    padding: 7px;
+    text-align: left;
+}
+.up{
+    border-bottom:2px solid black;
+    border-top: 1px solid #999;
+}
+.even{
+    background-color: #efefef;
+}
+tr:hover{
+    background-color: #c3e6e5;
+}
+td{
+    padding:  10px 10px 10px;
+}
+.nine{
+    text-align: right ;
+}
+.eleven{
+    border: 2px solid black;
+    padding: 20px;
+    background-color: #0088dd;
+
+}
+.ten{
+    empty-cells: show;
+    /* border-spacing: 15px; */
+    border-collapse: collapse;
+}
+.input{
+    display: block;
+    margin: 10px;
+    font-size: 20px;
+    color: #5a5854;
+    background-color: #f2f2f2;
+    border: 1px solid #bdbdbd;
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    background-position: 8px 9px;
+    padding: 5px 5px 5px 30px;
+}
+.input:focus{
+    background-color: #ffffff;
+    border: 1px solid #b1e1e4;
+}
+.submit{
+    color: #444444;
+    text-shadow: 0px 1px 1px #ffffff;
+    border-bottom: 2px solid #b2b2b2;
+    background-color: #b9e4e3;
+    width: 100px;
+    border-radius: 5px;
+}
+.submit:hover{
+    color: #333333;
+border: 1px solid #a4a4a4;
+border-top: 2px solid #b2b2b2;
+background-color: #a0dbc4;
+}
+fieldset{
+    width: 350px;
+border: 1px solid #dcdcdc;
+border-radius: 10px;
+padding: 20px;
+text-transform: uppercase;
+}
+legend {
+    background-color: #efefef;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-align: left;
+    text-transform: uppercase;}
+    button{
+        border-radius:8px ;
+        width: 100px;
+        background-color: dodgerblue;
+        text-align: center;
+    }
+    button:hover{
+        background-color: powderblue;
+    }
+
+

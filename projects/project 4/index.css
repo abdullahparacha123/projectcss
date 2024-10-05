@@ -1,0 +1,81 @@
+.h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: #666;
+    background-color: #f8f8f8;
+}
+.li{
+    list-style-image: url(../../download.png);
+}
+.table{
+    border-spacing: 0px;
+    width: 680px;
+    text-align: left;
+    background-color: #e0e9f0;
+    height: 250px;
+}
+.one{
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #90b4d6;
+    text-align: center;
+    letter-spacing: 0.15em;
+    height: 30px;
+}
+.two{
+    padding: 5px 30px 5px 10px;
+    border-spacing: 0px;
+    font-size: 90%;
+    background-color:#e0e9f0;
+    border-top: 1px solid #f1f8fe;
+    border-bottom: 1px solid #cbd2d8;
+    border-right: 1px solid #cbd2d8;
+    height: 30px; 
+    text-shadow:  1px 1px 1px #fff;;
+}
+.fieldset{
+    width: 510px;
+ margin-top: 20px;
+ border: 1px solid #d6d6d6;
+ background-color: #ffffff;
+ line-height: 2em;
+}
+.legend {
+    padding: 10px 20px;
+    text-align: left;
+    text-transform: uppercase;
+}
+.wow{
+    width: 150px;
+    border: 1px solid #d6d6d6;
+    padding: 2px;
+}
+.wow:focus:hover{
+    background-color: #d0e2f0;
+    border: 1px solid #999;
+}
+.good{
+    float: left;
+    width: 160px;
+    clear: left;
+}
+.submit{
+    border: 1px solid #006633;
+    background-color: #009966;
+    color: #FFFFFF;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 10px;
+    width: 110px;
+    text-align: center;
+
+}
+.submit:hover{
+    border: 1px solid #006633;
+    background-color: #00CC33;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+
+
