@@ -1,0 +1,136 @@
+.body{
+    margin: 0px;
+}
+
+
+.main{
+    background-color: rgb(245, 3, 3);
+    height: 90px;
+    width: 98%;
+    text-align: center;
+    padding: 1%;
+    line-height: 70px;
+    color: white;
+}
+.one{
+    position: absolute;
+    background-color: black;
+    width: 30%;
+    height: 16%;
+    left: 34%;
+    top: 12%;
+    color: orange;
+    line-height: 90px ;
+    text-align: center;
+    font-size: 30px;
+}
+.container{
+    width: 75%;
+    margin: auto;
+    height:60px;
+    
+        
+}
+.margin{
+    margin: 100px;
+    margin-left: 170px;
+    margin-bottom: 30px;
+
+}
+.para1{
+    float: left;
+    margin-left: 10px;
+    line-height: 30px;
+}
+.calander{
+    float: left;
+    height: 38px;
+    width: 20%;
+    padding: 1%;
+    line-height: 40px;
+    color: black;
+    text-align: center;
+    margin-left: 28px;
+    border-radius: 10px;
+}
+.yellow{
+    background-color: yellow;
+    
+}
+.orange{
+    background-color: orange;
+}
+.red{
+    background-color: red;
+}
+.pink{
+    background-color: rgb(250, 6, 46);
+}
+
+.img{
+    float: left;
+    margin-left: 15px;
+    width: 20%;
+    margin-right: 11px;
+}
+.two{
+    background-color:rgb(255, 255, 227);
+    border: 1px solid black;
+    height:30px;
+    line-height: 20px;
+    margin-bottom: 30px;
+}
+.three{
+    background-color:rgb(255, 255, 227);
+    border: 1px solid black;
+    height:30px;
+    line-height: 20px;
+    margin-bottom: 30px;
+}
+.four{
+    background-color:rgb(255, 255, 227);
+    border: 1px solid black;
+    height:30px;
+    line-height: 20px;
+    margin-bottom: 30px;
+}
+.five{
+    background-color:rgb(255, 255, 227);
+    border: 1px solid black;
+    height:30px;
+    line-height: 20px;
+    margin-bottom: 30px;
+}
+.p{
+    float: left;
+    margin-left: 8px;
+    line-height: 8px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.para1{
+    float: left;
+    margin-left: 10px;
+    line-height: 30px;
+}
+.img1{
+    float: left;
+    width: 12%;
+}
+.img{
+    text-align: right;
+    width: 12%;
+}
+.link{
+    float: right;
+    margin-bottom: 10px;
+    margin-right: 3px;
+    color: black;
+}
+.p3{
+    float: left;
+    margin-left: 10px;
+}
+.link2{
+    float: left;
+}

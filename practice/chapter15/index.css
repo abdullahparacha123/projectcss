@@ -1,0 +1,136 @@
+body{
+    margin: 0%;
+}
+
+
+.one{
+    float: left;
+    background-color: rgb(240, 89, 114);
+    height: 70px;
+    width: 1304PX;
+    text-align: center;
+    padding: 1%;
+    line-height: 70px;
+    margin: 1%;
+    color: white ;
+
+}
+.two {
+    float: left;
+    background-color: rgb(240, 89, 114);
+    height: 70px;
+    width: 632PX;
+    text-align: center;
+    padding: 1%;
+    line-height: 70px;
+    margin: 2px;
+    color: white ;
+    margin-left: 1%;
+    margin-top: 1%;
+
+}
+.three {
+    float: left;
+    background-color: rgb(240, 89, 114);
+    height: 70px;
+    width: 407px;
+    text-align: center;
+    padding: 1%;
+    margin: 2px;
+    line-height: 70px;
+    color: white;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+.four {
+    float: left;
+    background-color: rgb(240, 89, 114);
+    height: 90px;
+    width: 294px;
+    text-align: center;
+    padding: 1%;
+    margin: 2px;
+    line-height: 70px;
+    color: white;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+
+.five {
+    float: left;
+    background-color: rgb(240, 89, 114);
+    height: 70px;
+    width: 182PX;
+    text-align: center;
+    padding: 1%;
+    margin: 2px;
+    line-height: 70px;
+    color: white;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+.six{
+    float: left;
+    background-color: rgb(240, 89, 114);
+    height: 70px;
+    width: 1310px;
+    text-align: center;
+    padding: 1%;
+    line-height: 70px;
+    margin: 2px;
+    color: white;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+.seven{
+    float: left;
+    background-color: rgb(240, 89, 114);
+    height: 20px;
+    width: 1310PX;
+    text-align: center;
+    padding: 1%;
+    line-height: 30px;
+    margin: 2px;
+    color: white;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+.eight{
+    float: left;
+    background-color: rgb(240, 89, 114);
+    height: 100px;
+    width: 1280PX;
+    text-align: center;
+    padding: 2%;
+    line-height: 100px;
+    margin: 2px;
+    color: white;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+.nine{
+    float: left;
+    background-color: rgb(240, 89, 114);
+    height: 70px;
+    width: 407PX;
+    text-align: center;
+    padding: 1%;
+    margin: 2px;
+    line-height: 70px;
+    color: white;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+.ten{
+    float: left;
+    background-color: rgb(240, 89, 114);
+    height: 20px;
+    width: 1310PX;
+    text-align: center;
+    padding: 1%;
+    line-height: 30px;
+    margin: 2px;
+    color: white;
+    margin-left: 1%;
+    margin-top: 1%;
+}
